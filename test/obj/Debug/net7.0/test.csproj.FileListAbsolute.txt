@@ -1,0 +1,14 @@
+H:\sitry2\test\bin\Debug\net7.0\test.exe
+H:\sitry2\test\bin\Debug\net7.0\test.deps.json
+H:\sitry2\test\bin\Debug\net7.0\test.runtimeconfig.json
+H:\sitry2\test\bin\Debug\net7.0\test.dll
+H:\sitry2\test\bin\Debug\net7.0\test.pdb
+H:\sitry2\test\obj\Debug\net7.0\test.GeneratedMSBuildEditorConfig.editorconfig
+H:\sitry2\test\obj\Debug\net7.0\test.AssemblyInfoInputs.cache
+H:\sitry2\test\obj\Debug\net7.0\test.AssemblyInfo.cs
+H:\sitry2\test\obj\Debug\net7.0\test.csproj.CoreCompileInputs.cache
+H:\sitry2\test\obj\Debug\net7.0\test.dll
+H:\sitry2\test\obj\Debug\net7.0\refint\test.dll
+H:\sitry2\test\obj\Debug\net7.0\test.pdb
+H:\sitry2\test\obj\Debug\net7.0\test.genruntimeconfig.cache
+H:\sitry2\test\obj\Debug\net7.0\ref\test.dll
